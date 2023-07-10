@@ -66,8 +66,12 @@ span {
 }
 
 @media (max-width: 680px) {
+  header {
+    font-size: 1rem;
+  }
+
   h1 {
-    font-size: 3.5rem;
+    font-size: 2rem;
     text-align: center;
   }
 
